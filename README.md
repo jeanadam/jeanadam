@@ -6,8 +6,6 @@ My professional profile is in https://www.linkedin.com/in/jeanadam
 
 My running achievements are in https://www.strava.com/athletes/34024641
 
-I'm the solo developer and owner of a great Pregnancy Journal app. Checkout it out at https://www.diariodegestacao.com.br
-
 See you, have a nice day!
 
 <!--
