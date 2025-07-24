@@ -1,8 +1,6 @@
 ### Hello 👋, Jean here.
 
-When I'm not running code, I'm running on the streets.
-
-My professional profile is in https://www.linkedin.com/in/jeanadam 
+When not running code, running on the streets.
 
 See you, have a nice day!
 
